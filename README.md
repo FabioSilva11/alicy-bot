@@ -1,4 +1,4 @@
-# alicy-bot
+# alicy bot
 
 ![bot_alice_image.png](https://github.com/FabioSilva11/alicy-bot/blob/main/alicy.png)
 
