@@ -1,6 +1,6 @@
 # alicy-bot
 
-![Bot Alice]([bot_alice_image.png](https://github.com/FabioSilva11/alicy-bot/blob/main/alicy.png))
+![bot_alice_image.png](https://github.com/FabioSilva11/alicy-bot/blob/main/alicy.png)
 
 O Bot Alice é um bot desenvolvido para oferecer uma variedade de funcionalidades e interações em chats do Telegram. Este bot foi construído usando a biblioteca `telebot` para Python e oferece várias funcionalidades, desde entretenimento até utilidades práticas.
 
